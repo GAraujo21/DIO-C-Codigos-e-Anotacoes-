@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\bin\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\bin\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\bin\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\bin\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\bin\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\refint\6. Propriedades Metodos e Construtores com Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\6. Propriedades Metodos e Construtores com Csharp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\6. Propriedades Metodos e Construtores com Csharp\obj\Debug\net8.0\ref\6. Propriedades Metodos e Construtores com Csharp.dll

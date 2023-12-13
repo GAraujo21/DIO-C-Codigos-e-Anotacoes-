@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\bin\Debug\net8.0\ExemploFundamentaosBasicosCsharp.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\bin\Debug\net8.0\ExemploFundamentaosBasicosCsharp.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\bin\Debug\net8.0\ExemploFundamentaosBasicosCsharp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\bin\Debug\net8.0\ExemploFundamentaosBasicosCsharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\bin\Debug\net8.0\ExemploFundamentaosBasicosCsharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\refint\ExemploFundamentaosBasicosCsharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ExemploFundamentaosBasicosCsharp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\ExemploFundamentaosBasicosCsharp\obj\Debug\net8.0\ref\ExemploFundamentaosBasicosCsharp.dll

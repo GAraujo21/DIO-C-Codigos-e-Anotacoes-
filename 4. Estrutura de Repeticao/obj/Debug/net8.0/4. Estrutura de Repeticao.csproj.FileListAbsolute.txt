@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\bin\Debug\net8.0\4. Estrutura de Repeticao.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\bin\Debug\net8.0\4. Estrutura de Repeticao.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\bin\Debug\net8.0\4. Estrutura de Repeticao.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\bin\Debug\net8.0\4. Estrutura de Repeticao.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\bin\Debug\net8.0\4. Estrutura de Repeticao.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\refint\4. Estrutura de Repeticao.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\4. Estrutura de Repeticao.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\4. Estrutura de Repeticao\obj\Debug\net8.0\ref\4. Estrutura de Repeticao.dll

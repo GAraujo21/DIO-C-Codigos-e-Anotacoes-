@@ -1,0 +1,28 @@
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\refint\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\ref\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\bin\Debug\net8.0\3. Operadores Aritmeticos em Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\refint\3. Operadores Aritmeticos em Csharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\3. Operadores Aritmeticos em Csharp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\DIO C#\3. Operadores Aritmeticos em Csharp\obj\Debug\net8.0\ref\3. Operadores Aritmeticos em Csharp.dll

@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\bin\Debug\net8.0\OperadoresCSharp.exe
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\bin\Debug\net8.0\OperadoresCSharp.deps.json
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\bin\Debug\net8.0\OperadoresCSharp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\bin\Debug\net8.0\OperadoresCSharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\bin\Debug\net8.0\OperadoresCSharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\refint\OperadoresCSharp.dll
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.pdb
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\OperadoresCSharp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\Codigo e mais\OperadoresCSharp\obj\Debug\net8.0\ref\OperadoresCSharp.dll
